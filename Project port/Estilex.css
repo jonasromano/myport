@@ -1,0 +1,11 @@
+h1{
+    background-color: rgb(0, 247, 255);
+    color: red;
+    align-self:center;
+}
+
+p{
+    color: orange;
+    background-color: palegreen;
+    align-self: center;
+}

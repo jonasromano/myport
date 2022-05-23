@@ -1,0 +1,32 @@
+[
+    {
+    "empresa": "Supermercado Los 33",
+    "cargo": "Auxiliar de Ventas",
+    "tareas": "Reposición del salon, orden del deposito",
+    "periodo": "Septiembre 2017 - Julio 2018"
+},
+{
+    "empresa": "Iberpark SA",
+    "cargo": "Vendedor",
+    "tareas": "Vendedor, Cajero, Atención al cliente",
+    "periodo": "Septiembre 2018 - Abril 2020"
+},
+{
+    "empresa": "Bocatti SRL",
+    "cargo": "Cocinero de partida",
+    "tareas": "Cubrir licencias a auxiliares de cocina",
+    "periodo": "Mayo 2020 - Abril 2021"
+},
+{
+    "empresa": "Geant",
+    "cargo": "Cajero",
+    "tareas": "Tareas de caja",
+    "periodo": "Septiembre 2021 - Diciembre 2021"
+},
+{
+    "empresa": "On Beauty Spa",
+    "cargo": "Eteticista",
+    "tareas": "Funciones del spa y manejo de agenda",
+    "periodo": "Enero 2022 - Abril 2022"
+}
+]

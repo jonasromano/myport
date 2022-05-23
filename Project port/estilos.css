@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(167, 172, 175);
+}
+
+h1{
+    font-family: "Audiowide", sans-serif;
+    text-align: center;
+    background:linear-gradient(to right, orange, #ec38bc, #7303c0, cyan) ;
+}
